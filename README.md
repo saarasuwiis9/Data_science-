@@ -42,6 +42,6 @@ This assignment demonstrates practical skills in:
 - Model evaluation
 
 ## Author
-**Saara Maxamed**
+**Sara Mohamed**
 
 **Course:** Data Science
